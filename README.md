@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 Hi 👋 My name is Palak,<br><br>I’m a Software Engineer interested in building reliable software and continuously improving my craft.<br>I enjoy learning new technologies, exploring different areas of software development, and turning ideas into practical solutions.
 
 
